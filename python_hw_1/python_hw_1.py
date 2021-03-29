@@ -280,7 +280,7 @@ def transpose(matrix: List[list]) -> List[list]:
     Args:
         matrix: rectangular matrix
 
-    Returns:
+    Return:
         transposed matrix
     """
 
